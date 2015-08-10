@@ -1,0 +1,53 @@
+div.thumbnail {
+	margin-top: 10px;
+	text-align: center;
+	border-radius: 10px;
+}
+
+div.thumbnail h3 {
+	word-break: break-all;
+}
+
+div.thumbnail img {
+	width: 100px;
+	height: 100px;
+}
+
+#photo-details {
+	text-align: center;
+}
+
+#photo-details h1 {
+	font-style: italic;
+}
+
+#photo-details p {
+	text-align: right;
+}
+
+#photo-details img {
+	border-radius: 10px;
+	border: 2px solid lightgray;
+}
+
+#voting, #comment-section {
+	text-align: center;
+}
+
+.comment-content {
+	padding: 10px;
+	border: 1px solid lightgray;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.author {
+	padding: 5px;
+	border: 1px solid lightgray;
+	margin-bottom: 20px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+div.span9 div.span12{
+    text-align: center;
+}
